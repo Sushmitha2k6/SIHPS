@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 ### Date: 07/10/2025
-### Register Number: 212224230138
-### Name: LAKSHMIDHAR N
+### Register Number: 212224230282
+### Name: SUSHMITHA S
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
